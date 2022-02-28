@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Xenshirn, call me Omid
 - 👀 I’m interested in AI and machine learning :\
-- 🌱 I’m currently learning Python 
-
 - 📫 https:\\t.me\xenshirn
 
 <!---
